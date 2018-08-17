@@ -1,0 +1,2115 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inp",
+				"input_len"
+			],
+			[
+				"form",
+				"format_dec"
+			],
+			[
+				"the",
+				"the_loop"
+			],
+			[
+				"data",
+				"data1"
+			],
+			[
+				"format",
+				"format_hex"
+			],
+			[
+				"input",
+				"input_len"
+			],
+			[
+				"inv",
+				"inv_len"
+			],
+			[
+				"valid",
+				"valid_len"
+			],
+			[
+				"vali",
+				"valid_addr"
+			],
+			[
+				"inpu",
+				"input_src"
+			],
+			[
+				"va",
+				"va_exit"
+			],
+			[
+				"0x0",
+				"0x00000000"
+			],
+			[
+				"copy",
+				"COPYDATA"
+			],
+			[
+				"print",
+				"print_data_loop"
+			],
+			[
+				"0x",
+				"0xAAAAAAAA\t(temp.s)"
+			],
+			[
+				"mspromp",
+				"msprompt"
+			],
+			[
+				"output",
+				"output_start_data1"
+			],
+			[
+				"init",
+				"init_chunk"
+			],
+			[
+				"image",
+				"image_lib"
+			],
+			[
+				"owner",
+				"ownerID\t(logs.js)"
+			],
+			[
+				"line",
+				"line_objs"
+			],
+			[
+				"time",
+				"timeframe"
+			],
+			[
+				"town",
+				"town_help"
+			],
+			[
+				"message",
+				"message.reply\t(loot.js)"
+			],
+			[
+				"chec",
+				"check_syntax\t(dice_engine.js)"
+			],
+			[
+				"space",
+				"space_op"
+			],
+			[
+				"num",
+				"num_parens"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"tota",
+				"total_parens"
+			],
+			[
+				"create",
+				"create_npc_store"
+			],
+			[
+				"min",
+				"min-col"
+			],
+			[
+				"max",
+				"max-row"
+			],
+			[
+				"get_",
+				"get_inventory_shop"
+			],
+			[
+				"store",
+				"store_row"
+			],
+			[
+				"engl",
+				"engl303_url"
+			],
+			[
+				"get",
+				"getRoll20URL"
+			],
+			[
+				"messa",
+				"messagelib.js"
+			],
+			[
+				"field",
+				"fieldGenerator\t(town.js)"
+			],
+			[
+				"async",
+				"async_callback"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"mess",
+				"messagelib.js\t(stats.js)"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"lootT",
+				"lootTemplateSpicy\t(dndsheets.js)"
+			],
+			[
+				"loot",
+				"lootTemplateSpicy\t(dndsheets.js)"
+			],
+			[
+				"dnd",
+				"dndsheets.js\t(bot.js)"
+			],
+			[
+				"bot",
+				"bot_message_callback"
+			],
+			[
+				"stats",
+				"statsObj"
+			],
+			[
+				"config",
+				"config.json\t(prefix.js)"
+			],
+			[
+				"comman",
+				"commands"
+			],
+			[
+				"comm",
+				"commandFile"
+			],
+			[
+				"msg",
+				"msglib"
+			],
+			[
+				"comma",
+				"commands"
+			],
+			[
+				"command",
+				"command_rex"
+			],
+			[
+				"new",
+				"newPrefix"
+			],
+			[
+				"args",
+				"args[1"
+			],
+			[
+				"roll",
+				"rollOver"
+			],
+			[
+				"logg",
+				"logger_level\t(config.json)"
+			],
+			[
+				"help",
+				"helpmsg"
+			],
+			[
+				"auto",
+				"auth_token"
+			],
+			[
+				"reg",
+				"ref_man_regex"
+			],
+			[
+				"ref",
+				"ref_man_regex"
+			],
+			[
+				"trinket",
+				"trinketsLooted"
+			],
+			[
+				"armor",
+				"armorLooted"
+			],
+			[
+				"gold",
+				"gold_arr"
+			],
+			[
+				"result",
+				"resultVal"
+			],
+			[
+				"trink",
+				"trinketsLooted\t(storage.js)"
+			],
+			[
+				"stora",
+				"storage.js\t(bot.js)"
+			],
+			[
+				"conso",
+				"console.log('Read\t(dndsheets.js)"
+			],
+			[
+				"hep",
+				"helpmsg"
+			],
+			[
+				"random",
+				"randomItem"
+			],
+			[
+				"rand",
+				"randomItem"
+			],
+			[
+				"total",
+				"total_dice"
+			],
+			[
+				"eval",
+				"eval_dice_string"
+			],
+			[
+				"dice",
+				"dice_string"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"lhs",
+				"lhs_rex"
+			],
+			[
+				"ret",
+				"ret_dice"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"cu",
+				"current_tmin"
+			],
+			[
+				"current",
+				"current_tmax"
+			],
+			[
+				"cur",
+				"current_tmax"
+			],
+			[
+				"curren",
+				"current_tmax"
+			],
+			[
+				"if",
+				"ifstream\t(main1.cpp)"
+			],
+			[
+				"tm",
+				"tmax_val"
+			],
+			[
+				"tmin",
+				"tmin_val"
+			],
+			[
+				"tmax",
+				"tmax_val"
+			],
+			[
+				"TMAX",
+				"TMAX_OFFSET"
+			],
+			[
+				"TMIN",
+				"TMIN_OFFSET"
+			],
+			[
+				"TMIN_",
+				"TMIN_POSITION"
+			],
+			[
+				"TMAX_",
+				"TMAX_POSITION"
+			],
+			[
+				"DATE",
+				"DATE_OFFSET"
+			],
+			[
+				"ST",
+				"STATION_NAME_OFFSET"
+			],
+			[
+				"STAT",
+				"STATION_NAME\t(al_weather_station.txt)"
+			],
+			[
+				"char",
+				"charizard"
+			],
+			[
+				"constr",
+				"construct_string"
+			],
+			[
+				"cons",
+				"construct_string"
+			],
+			[
+				"de",
+				"desired_locations"
+			],
+			[
+				"is_temp",
+				"is_temp_good"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"is",
+				"is_line_good"
+			],
+			[
+				"cr",
+				"current_line"
+			],
+			[
+				"PRO",
+				"PROJECT_SOURCE_DIR"
+			],
+			[
+				"VER",
+				"VERSION_MAJOR\t(config.h.in)"
+			],
+			[
+				"PROJECT",
+				"PROJECT_SOURCE_DIR"
+			],
+			[
+				"VERSION",
+				"VERSION_MAJOR\t(CMakeLists.txt)"
+			],
+			[
+				"mathlib",
+				"mathlib\t(feature_test_cpp17.sublime-project)"
+			],
+			[
+				"math",
+				"mathLibrary"
+			],
+			[
+				"PROJ",
+				"PROJECT_BINARY_DIR"
+			],
+			[
+				"VERSION_",
+				"VERSION_MAJOR\t(version.h)"
+			],
+			[
+				"PROJEC",
+				"PROJECT_SOURCE_DIR\tbuiltin"
+			],
+			[
+				"PlayerAir",
+				"PlayerAirChargeHook"
+			],
+			[
+				"GetComponent",
+				"GetComponentInChildren\t(PlayerController.cs)"
+			],
+			[
+				"Colli",
+				"Collision2D\t(AttackStructures.cs)"
+			],
+			[
+				"FindP",
+				"FindPropertyRelative"
+			],
+			[
+				"hitboxSt",
+				"hitboxStun"
+			],
+			[
+				"entry",
+				"entryState"
+			],
+			[
+				"diretion",
+				"directionLock"
+			],
+			[
+				"facing",
+				"facing_right"
+			],
+			[
+				"direction",
+				"directionLock"
+			],
+			[
+				"Direction",
+				"DirectionLock"
+			],
+			[
+				"horiz",
+				"horiz_mov"
+			],
+			[
+				"WALL",
+				"WALL_SLAM"
+			],
+			[
+				"Cancel",
+				"CancelScreenShake\t(GameController.cs)"
+			],
+			[
+				"shake",
+				"shakeDuration"
+			],
+			[
+				"screen",
+				"ssChannel.info.screenShakeDone"
+			],
+			[
+				"Animation",
+				"AnimationCurve\t(PlayerController.cs)"
+			],
+			[
+				"off",
+				"offset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.s",
+			"settings":
+			{
+				"buffer_size": 3849,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "AS Make",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"AS Make",
+					""
+				],
+				[
+					"AS Make",
+					"AS Make Clean"
+				]
+			],
+			[
+				"AS Make",
+				"AS Make Clean"
+			]
+		],
+		[
+			[
+				[
+					"AS Make",
+					""
+				],
+				[
+					"AS Make",
+					"Clean"
+				]
+			],
+			[
+				"AS Make",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run (OSX)",
+					""
+				],
+				[
+					"Run (OSX)",
+					"RunPrgm1"
+				],
+				[
+					"Run (OSX)",
+					"RunPrgm2"
+				]
+			],
+			[
+				"Run (OSX)",
+				"RunPrgm1"
+			]
+		],
+		[
+			[
+				[
+					"homework3p2 (OSX)",
+					""
+				],
+				[
+					"homework3p2 (OSX)",
+					"clean"
+				],
+				[
+					"homework3p2 (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"homework3p2 (OSX)",
+					"program1"
+				],
+				[
+					"homework3p2 (OSX)",
+					"program2"
+				],
+				[
+					"homework3p2 (OSX)",
+					"program3"
+				],
+				[
+					"homework3p2 (OSX)",
+					"program4"
+				]
+			],
+			[
+				"homework3p2 (OSX)",
+				""
+			]
+		],
+		[
+			[
+				[
+					"homework3p2group (OSX)",
+					""
+				],
+				[
+					"homework3p2group (OSX)",
+					"clean"
+				],
+				[
+					"homework3p2group (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlySubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Nightly"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program1"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemoryCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Continuous"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Experimental"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program2"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program3"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program4"
+				]
+			],
+			[
+				"homework3p2group (OSX)",
+				"rebuild_cache"
+			]
+		],
+		[
+			[
+				[
+					"homework3p2group (OSX)",
+					""
+				],
+				[
+					"homework3p2group (OSX)",
+					"clean"
+				],
+				[
+					"homework3p2group (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlySubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"test"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemoryCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Nightly"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Continuous"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Experimental"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program1"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program2"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program3"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program4"
+				]
+			],
+			[
+				"homework3p2group (OSX)",
+				""
+			]
+		],
+		[
+			[
+				[
+					"homework3p2group (OSX)",
+					""
+				],
+				[
+					"homework3p2group (OSX)",
+					"clean"
+				],
+				[
+					"homework3p2group (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program1"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program2"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program3"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program4"
+				]
+			],
+			[
+				"homework3p2group (OSX)",
+				""
+			]
+		],
+		[
+			[
+				[
+					"homework3p2group (OSX)",
+					""
+				],
+				[
+					"homework3p2group (OSX)",
+					"clean"
+				],
+				[
+					"homework3p2group (OSX)",
+					"rebuild_cache"
+				],
+				[
+					"homework3p2group (OSX)",
+					"test"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousSubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlySubmit"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyCoverage"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Nightly"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program1"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyTest"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyBuild"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyUpdate"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ExperimentalMemCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"ContinuousConfigure"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyMemoryCheck"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Continuous"
+				],
+				[
+					"homework3p2group (OSX)",
+					"Experimental"
+				],
+				[
+					"homework3p2group (OSX)",
+					"NightlyStart"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program2"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program3"
+				],
+				[
+					"homework3p2group (OSX)",
+					"program4"
+				]
+			],
+			[
+				"homework3p2group (OSX)",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 240.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"tex",
+				"Text Pastry: From 0 To X"
+			],
+			[
+				"text",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"CTest",
+				"CMakeBuilder: Run CTest"
+			],
+			[
+				"CMake",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"Ctest",
+				"CMakeBuilder: Run CTest"
+			],
+			[
+				"clear",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"Cmake",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"Clear",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"Claer",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"cmake",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"color sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"uninstall",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"Color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"clean",
+				"OmniSharpSublime: Clean"
+			],
+			[
+				"clea",
+				"CMakeBuilder: Clear Cache"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Cong",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"configure",
+				"CMakeBuilder: Configure"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"text pastry",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"call([\"./build/bin/project1\"])",
+			"from subprocess import call",
+			"call([\"./build/bin/project1\"])",
+			"./build/bin/project1",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Clark/Documents/Programming/School/CS413/lab3"
+	],
+	"file_history":
+	[
+		"/Users/Clark/Documents/Programming/School/armlab2/main.s",
+		"/Users/Clark/Documents/Programming/School/CS413/lab3/main.s",
+		"/Users/Clark/Documents/Programming/School/CS413/lab1/main.s",
+		"/Users/Clark/Documents/Programming/School/CS413/lab3/temp.s",
+		"/Users/Clark/Documents/Programming/School/CS413/lab3/Makefile",
+		"/Users/Clark/Documents/Programming/School/CS413/lab3/lab3_CS413.sublime-project",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/config.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/dice_engine.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/package.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/juicy.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/conf/juicy_lib.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/logs.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/TODO.txt",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/pretzels.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/roll.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/bot.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/prefix.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/reload.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/dndsheets.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/loot.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/messagelib.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/help.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/town.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/npc.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/src/commands/stats.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/juicy.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/prefix.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/dice_engine.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/messagelib.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/dndsheets.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/stats.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/roll.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/storage.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/reload.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/help.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/test.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/butts.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/config.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/commands/commandlibrary.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/help-message.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/auth.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/magicmissile.service",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/mongodb.service",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/node_modules/lodash/string/escapeRegExp.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/MagicMissile.sublime-project",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/client_secret.json",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/quickstart.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/node_modules/discord.io/lib/index.js",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/.gitignore",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/node_modules/DiceCalculator",
+		"/Users/Clark/Documents/Programming/Projects/DiscordBots/MagicMissile/DiceExpression",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program1/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/build/bin/weather_station_bonanza.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/homework3p2group.sublime-project",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program1/src/main1.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program2/src/main2.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program3/src/main3.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program4/src/main4.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/al_weather_station.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program2/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program3/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/Program4/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2_group/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program1/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program4/src/main4.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/build/bin/al_weather_station.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program2/src/main2.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program1/src/main1.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/build/bin/north_al_weather_station.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program3/src/main3.cpp",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/build/bin/weather_station_min_max.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/build/bin/filtered_al_weather_station.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/.gitignore",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/al_weather_station.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/Program4/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/School/CS121/Homework3p2/homework3p2.sublime-project",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/funcreturner.hpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/CMakeLists.txt",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/main.cpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/build/Makefile",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/config.h.in",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/feature_test_cpp17.sublime-project",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/inc/includes.hpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/build/CMakeFiles/Makefile2",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/build/mathLibrary/Table.h",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/mathLibrary/mymath.cpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/mathLibrary/CMakeLists.txt",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/License.txt",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/mathLibrary/mymath.hpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/mathLibrary/MakeTable.cpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/inc/version.h.in",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/mathLibrary/CMakeLists.txt",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/mathLibrary/mymath.cpp",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/build/inc/version.h",
+		"/Users/Clark/Documents/TestProjects/feature_test_cpp17/src/CMakeLists.txt",
+		"/Users/Clark/Documents/TestScheduler/TestScheduler.sublime-project",
+		"/Users/Clark/Documents/Programming/TestProjects/ConceptTest/CMakeCache.txt",
+		"/Users/Clark/Documents/Programming/TestProjects/ConceptTest/proj_name.sublime-project",
+		"/Users/Clark/Documents/Programming/TestProjects/ConceptTest/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/Projects/clarksouls/CMakeLists.txt",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/Player/PlayerController_AirStates.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/ChargeHook.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Attack Library/AttackStructures.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/EnemyMovement.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/PlayerMovement.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Core/Controller2D.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/PlayerController.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/AttackLibraryWindow.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Attack Library/AttackController.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Core/ScreenShake.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/GameController.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/StateMachines/FiniteStateMachine.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/StateMachines/State.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Fucntioncall.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/PlayerMovement_Editor.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/Controller2D_Editor.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/WaveSpawner.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/NodeEditor.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/StateMachines/SimpleStateMachine.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Attack Library/AttackLibrary.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/AIController.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Game/LevelInfo.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/.gitignore",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/Editor/LevelInfoWindow.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/ExecutionOrder.txt",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/PlayerController.cs",
+		"/Users/Clark/Documents/Programming/Projects/main_game/Assets/scripts/Controller2D.cs"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input_len",
+			"pr_length",
+			"format_dec",
+			"mov",
+			"r0",
+			"input_len",
+			"r0",
+			"va_exit",
+			"valid_addr",
+			"input",
+			" =format_hex",
+			"input",
+			"endl",
+			"bne",
+			"print_data_loop",
+			"r2",
+			"init_chunk_loop",
+			".skip",
+			"msprompt",
+			"0xAAAAAAAA",
+			"printf",
+			"rval",
+			"iprompt",
+			"miprompt",
+			"msprompt",
+			"iprompt",
+			"output_start_data1",
+			"printf",
+			"output_start_data1",
+			"BL",
+			"data1",
+			"mdata2",
+			"mdata1",
+			"moutput_start_data1",
+			"printf",
+			"init_chunk",
+			"r1",
+			"data2",
+			":",
+			"mprompt_endl",
+			"balign",
+			".balign",
+			".asxiz",
+			"r2",
+			"printf",
+			"r2",
+			"init_chunk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.s",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/R/R.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2618.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 297.0
+	},
+	"output.files_to_be_deleted":
+	{
+		"height": 209.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "AS Make",
+	"project": "lab3_CS413.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main",
+				"main.s"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"dice",
+				"src/dice_engine.js"
+			],
+			[
+				"con",
+				"src/config.json"
+			],
+			[
+				"juicy",
+				"src/commands/juicy.js"
+			],
+			[
+				"",
+				"src/dice_engine.js"
+			],
+			[
+				"tot",
+				"TODO.txt"
+			],
+			[
+				"roll",
+				"src/commands/roll.js"
+			],
+			[
+				"config",
+				"src/config.json"
+			],
+			[
+				"jui",
+				"src/commands/juicy.js"
+			],
+			[
+				"pre",
+				"src/commands/prefix.js"
+			],
+			[
+				"bot",
+				"bot.js"
+			],
+			[
+				"json",
+				"package.json"
+			],
+			[
+				"to",
+				"TODO.txt"
+			],
+			[
+				"todo",
+				"TODO.txt"
+			],
+			[
+				"npc",
+				"src/commands/npc.js"
+			],
+			[
+				"town",
+				"src/commands/town.js"
+			],
+			[
+				"message",
+				"src/messagelib.js"
+			],
+			[
+				"help",
+				"src/commands/help.js"
+			],
+			[
+				"dnd",
+				"src/dndsheets.js"
+			],
+			[
+				"msg",
+				"src/messagelib.js"
+			],
+			[
+				"sta",
+				"src/commands/stats.js"
+			],
+			[
+				"loot",
+				"src/commands/loot.js"
+			],
+			[
+				"stats",
+				"src/commands/stats.js"
+			],
+			[
+				"messa",
+				"src/messagelib.js"
+			],
+			[
+				"sheet",
+				"src/dndsheets.js"
+			],
+			[
+				"reload",
+				"src/commands/reload.js"
+			],
+			[
+				"s",
+				"storage.js"
+			],
+			[
+				"storage",
+				"storage.js"
+			],
+			[
+				"pref",
+				"commands/prefix.js"
+			],
+			[
+				"butt",
+				"commands/butts.js"
+			],
+			[
+				"confg",
+				"config.json"
+			],
+			[
+				"msglib",
+				"messagelib.js"
+			],
+			[
+				"msess",
+				"messagelib.js"
+			],
+			[
+				"magic",
+				"magicmissile.service"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"dndsh",
+				"dndsheets.js"
+			],
+			[
+				"stor",
+				"storage.js"
+			],
+			[
+				"dndsheet",
+				"dndsheets.js"
+			],
+			[
+				"project",
+				"MagicMissile.sublime-project"
+			],
+			[
+				"mess",
+				"messagelib.js"
+			],
+			[
+				"messagelib",
+				"messagelib.js"
+			],
+			[
+				"stora",
+				"storage.js"
+			],
+			[
+				"main4",
+				"Program4/src/main4.cpp"
+			],
+			[
+				"include",
+				"Program4/src/includes.hpp"
+			],
+			[
+				"pro",
+				"Program4/CMakeLists.txt"
+			],
+			[
+				"cma",
+				"CMakeLists.txt"
+			],
+			[
+				"c",
+				"CMakeLists.txt"
+			],
+			[
+				"al",
+				"al_weather_station.txt"
+			],
+			[
+				"bonanza_2.txt",
+				"~/Documents/Programming/School/CS121/Homework3p2_group/build/bin/bonanza_2.txt"
+			],
+			[
+				"main3",
+				"Program3/src/main3.cpp"
+			],
+			[
+				"weather_station_bonanza.txt",
+				"~/Documents/Programming/School/CS121/Homework3p2_group/build/bin/weather_station_bonanza.txt"
+			],
+			[
+				"bon",
+				"~/Documents/Programming/School/CS121/Homework3p2_group/build/bin/bonanza_2.txt"
+			],
+			[
+				"main2",
+				"Program2/src/main2.cpp"
+			],
+			[
+				"min2",
+				"Program2/src/main2.cpp"
+			],
+			[
+				"min1",
+				"Program1/src/main1.cpp"
+			],
+			[
+				"amin",
+				"Program2/src/main2.cpp"
+			],
+			[
+				"main1",
+				"Program1/src/main1.cpp"
+			],
+			[
+				"min",
+				"Program2/src/main2.cpp"
+			],
+			[
+				"wea",
+				"~/Documents/Programming/School/CS121/Homework3p2_group/build/bin/weather_station_bonanza.txt"
+			],
+			[
+				"homework",
+				"homework3p2group.sublime-project"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"sublime",
+				"homework3p2group.sublime-project"
+			],
+			[
+				"projec",
+				"homework3p2group.sublime-project"
+			],
+			[
+				"homew",
+				"homework3p2group.sublime-project"
+			],
+			[
+				"weather",
+				"al_weather_station.txt"
+			],
+			[
+				"cmaek",
+				"CMakeLists.txt"
+			],
+			[
+				"a",
+				"al_weather_station.txt"
+			],
+			[
+				"cmke",
+				"CMakeLists.txt"
+			],
+			[
+				"func",
+				"src/funcreturner.hpp"
+			],
+			[
+				"mymath.",
+				"mathLibrary/mymath.cpp"
+			],
+			[
+				"cmakelists",
+				"src/mathLibrary/CMakeLists.txt"
+			],
+			[
+				"mymath",
+				"src/mathLibrary/mymath.cpp"
+			],
+			[
+				"version",
+				"inc/version.h.in"
+			],
+			[
+				"cmakelist",
+				"CMakeLists.txt"
+			],
+			[
+				"playercon",
+				"Assets/scripts/Game/Player/PlayerController.cs"
+			],
+			[
+				"airstate",
+				"Assets/scripts/Game/Player/PlayerController_AirStates.cs"
+			],
+			[
+				"airs",
+				"Assets/scripts/Game/Player/PlayerController_AirStates.cs"
+			],
+			[
+				"struct",
+				"Assets/scripts/Attack Library/AttackStructures.cs"
+			],
+			[
+				"playercont",
+				"Assets/scripts/Game/Player/PlayerController.cs"
+			],
+			[
+				"playercontroller",
+				"Assets/scripts/Game/Player/PlayerController_AttackStates.cs"
+			],
+			[
+				"attacks",
+				"Assets/scripts/Attack Library/AttackStructures.cs"
+			],
+			[
+				"atacklib",
+				"Assets/Editor/AttackLibraryWindow.cs"
+			],
+			[
+				"attackstr",
+				"Assets/scripts/Attack Library/AttackStructures.cs"
+			],
+			[
+				"attacklib",
+				"Assets/scripts/Attack Library/AttackStructures.cs"
+			],
+			[
+				"attackwindow",
+				"Assets/Editor/AttackLibraryWindow.cs"
+			],
+			[
+				"playermove",
+				"Assets/scripts/Game/PlayerMovement.cs"
+			],
+			[
+				"player",
+				"Assets/scripts/Game/PlayerController.cs"
+			],
+			[
+				"controll",
+				"Assets/scripts/Core/Controller2D.cs"
+			],
+			[
+				"contro",
+				"Assets/scripts/Core/Controller2D.cs"
+			],
+			[
+				"attacklibrar",
+				"Assets/scripts/Attack Library/AttackStructures.cs"
+			],
+			[
+				"state",
+				"Assets/scripts/StateMachines/State.cs"
+			],
+			[
+				"gacm",
+				"Assets/scripts/Game/GameController.cs"
+			],
+			[
+				"screen",
+				"Assets/scripts/Core/ScreenShake.cs"
+			],
+			[
+				"gamecon",
+				"Assets/scripts/Game/GameController.cs"
+			],
+			[
+				"playermovement",
+				"Assets/scripts/Game/PlayerMovement.cs"
+			],
+			[
+				"controller",
+				"Assets/scripts/Core/Controller2D.cs"
+			],
+			[
+				"editor",
+				"Assets/Editor/PlayerMovement_Editor.cs"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"level",
+				"Assets/Editor/LevelInfoWindow.cs"
+			],
+			[
+				"levelinf",
+				"Assets/scripts/Game/LevelInfo.cs"
+			],
+			[
+				"f",
+				"Assets/scripts/StateMachines/FiniteStateMachine.cs"
+			],
+			[
+				"play",
+				"Assets/scripts/Game/PlayerController.cs"
+			],
+			[
+				"ai",
+				"Assets/scripts/Game/AIController.cs"
+			],
+			[
+				"attackcont",
+				"Assets/scripts/Attack Library/AttackController.cs"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"window",
+				"Assets/Editor/AttackLibraryWindow.cs"
+			],
+			[
+				"levelinfo",
+				"Assets/scripts/Game/LevelInfo.cs"
+			],
+			[
+				"gamec",
+				"Assets/scripts/Game/GameController.cs"
+			],
+			[
+				"control",
+				"Assets/scripts/Controller2D.cs"
+			],
+			[
+				"ser",
+				"Assets/scripts/Core/SerDictionary.cs"
+			],
+			[
+				"attacklibrary",
+				"Assets/scripts/Attack Library/AttackLibrary.cs"
+			],
+			[
+				"attack",
+				"Assets/scripts/Attack Library/AttackController.cs"
+			],
+			[
+				"testwind",
+				"Assets/Editor/TestWindow_Editor.cs"
+			],
+			[
+				"seriali",
+				"Assets/scripts/SerializeObjects/SerDictionary.cs"
+			],
+			[
+				"hitbox",
+				"Assets/Prefabs/Hitbox.prefab"
+			],
+			[
+				"bai",
+				"BasicEnemyController.cs"
+			],
+			[
+				"contorll",
+				"Controller2D.cs"
+			],
+			[
+				"finite",
+				"StateMachines/FiniteStateMachine.cs"
+			],
+			[
+				"playera",
+				"PlayerAttack.cs"
+			],
+			[
+				"game",
+				"Core/GameInput.cs"
+			],
+			[
+				"fini",
+				"StateMachines/FiniteStateMachine.cs"
+			],
+			[
+				"push",
+				"StateMachines/PushdownStateMachine.cs"
+			],
+			[
+				"cont",
+				"Controller2D.cs"
+			],
+			[
+				"gae",
+				"GameConstants.cs"
+			],
+			[
+				"pla",
+				"PlayerAttack.cs"
+			],
+			[
+				"tra",
+				"StateMachines/Transition.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

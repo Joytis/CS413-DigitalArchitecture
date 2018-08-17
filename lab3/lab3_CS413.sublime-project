@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"build_systems":[
+	    {
+	        "name": "AS Make",
+	        "cmd": ["make"],
+	        "env": {
+	        	"AS": "arm-none-eabi-as",
+	        	"LD": "arm-none-eabi-gcc",
+	        	"CC": "arm-none-eabi-gcc",
+	        },
+
+	        "variants": 
+	        [
+	        	{
+	        		"name": "Clean",
+	        		"cmd": ["make", "clean"],
+	        	}
+	        ]
+	    }
+	]
+}
